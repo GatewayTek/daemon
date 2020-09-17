@@ -1,4 +1,4 @@
-# daemon
+# Gateway Technologies:daemon
 Welcome to Gateway Technologies Daemon Project, 
 Download the latest release here
 
